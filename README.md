@@ -15,7 +15,7 @@
 - [Table Of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
   - [Mental Health Problems](#mental-health-problems)
-  - [A Spiritual Productivity Tool for Mental Wellness](#A-spiritual-productivity-tool-for-mental-wellness)
+  - [A Spiritual Productivity Tool for Mental Wellness](#a-spiritual-productivity-tool-for-mental-wellness)
   - [Features](#features)
   - [Explanation Video](#explanation-video)
 - [Demo](#demo)
